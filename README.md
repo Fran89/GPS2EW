@@ -29,7 +29,10 @@ This script has various requirements:
   + Time must be Unix Epoch (seconds since 1970) GMT.
 4. Configure geojson2ew.d (An example configuration included)
 
-## Thanks
+## Flowchart
+![Flowchart](https://github.com/Fran89/GPS2EW/blob/master/img/Flow.svg.png)
+
+### Thanks
 * Advisor: Alberto Lopez, for encouring me to create this script.
 * The people over at Instrumental Software Technologies, Inc. (ISTI) @ http://www.isti.com/
 * Everyone who has ever worked with in the development of earthworm @ http://earthwormcentral.org

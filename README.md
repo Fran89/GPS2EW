@@ -27,7 +27,7 @@ This script has various requirements:
 3. Everytime the scripts recieves data
   + Call: variable.sendGPS(Lat,Lon,Ele,Time) (or xyz)
   + Time must be Unix Epoch (seconds since 1970) GMT.
-4. Done
+4. Configure geojson2ew.d (An example configuration included)
 
 ## Thanks
 * Advisor: Alberto Lopez, for encouring me to create this script.
